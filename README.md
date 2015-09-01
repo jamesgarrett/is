@@ -7,4 +7,4 @@ This is accomplished using the variables **$verb** for category names, and the v
 post names. By keeping the variable in the back end consistent, I was able to define a naming
 convention that allowed me to keep url syntax consistent in the front end.
 
-Read more: [garrett.is/building/semantic_servers](garrett.is/building/semantic_servers)
+Read more: [garrett.is/building/semantic_servers](http://garrett.is/building/semantic_servers)
